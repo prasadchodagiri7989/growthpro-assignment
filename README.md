@@ -15,7 +15,7 @@ This is a simulated SEO dashboard for local businesses, built using React and No
 ## 🚀 Tech Stack
 - Frontend: React, Tailwind CSS
 - Backend: Node.js, Express
-- Deployment (Bonus): Vercel & Render
+- Deployment : Vercel & Render
 
 ## 🔧 Features
 - Input form for business name and location
@@ -32,8 +32,8 @@ Returns mock rating, reviews, and headline.
 Returns a new mock SEO headline.
 
 ## 🔗 Live Links
-- Frontend (Vercel): https://your-frontend.vercel.app/
-- Backend (Render): https://your-backend.onrender.com/
+- Frontend (Vercel): https://growthpro-assignment.vercel.app/
+- Backend (Render): https://growthpro-backend-0krh.onrender.com/
 
 ## 💻 Local Setup
 
@@ -48,10 +48,11 @@ npm run dev
 ```bash
 cd backend
 npm install
-node index.js
+node server.js
 ```
 
 ## 📧 Submission
-Submitted by: **Your Full Name**  
-Email: your@email.com  
-GitHub Repo: https://github.com/yourusername/growthpro-intern-assignment
+Submitted by: **Chodagiri N V S S Durga Prasad**  
+Email: chodagiriprasad5@email.com
+Phone: +91 7989152819  
+GitHub Repo: https://github.com/prasadchodagiri7989/growthpro-assignment.git
